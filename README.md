@@ -9,8 +9,8 @@ Na minha proposta nao implementei o modo rasante. Se o jogador elimina todos os 
 
 Todo o trabalho foi feito em java.
 
-<img src="https://github.com/TomAugst/Galaxian/blob/main/Screenshot/tile.gif" width="450" height="300"> <img src="https://github.com/TomAugst/Galaxian/blob/afe25b53357d5282aa35fda39f156de6a6fd7ca8/Screenshot/screenshot_pause.png" width="450" height="300">
-<img src="https://github.com/TomAugst/Galaxian/blob/afe25b53357d5282aa35fda39f156de6a6fd7ca8/Screenshot/screenshot_levou_dano.png" width="450" height="300"> <img src="https://github.com/TomAugst/Galaxian/blob/afe25b53357d5282aa35fda39f156de6a6fd7ca8/Screenshot/screenshot_nave_robusta.png" width="450" height="300">
+<img src="https://github.com/TomAugst/Galaxian/blob/main/Screenshot/tile.gif" width="400" height="300"> <img src="https://github.com/TomAugst/Galaxian/blob/afe25b53357d5282aa35fda39f156de6a6fd7ca8/Screenshot/screenshot_pause.png" width="400" height="300">
+<img src="https://github.com/TomAugst/Galaxian/blob/afe25b53357d5282aa35fda39f156de6a6fd7ca8/Screenshot/screenshot_levou_dano.png" width="400" height="300"> <img src="https://github.com/TomAugst/Galaxian/blob/afe25b53357d5282aa35fda39f156de6a6fd7ca8/Screenshot/screenshot_nave_robusta.png" width="400" height="300">
 
 <a href="https://www.youtube.com/watch?v=1naGQJnH4ns">Video</a>
 
