@@ -7,7 +7,7 @@ O objetivo foi criar um jogo baseado no antigo Galaxian. Nele, o jogador pilota 
 
 Na minha proposta nao implementei o modo rasante. Se o jogador elimina todos os alienígenas, uma nova fase é iniciada com um grau de dificuldade um pouco maior que a anterior. Porém, se algum alienígena conseguir chegar ao solo, então ele ativa sua arma secreta mutante e será o vencedor (game over). A movimentação dos inimigos é "em bloco" e, quando chega em um dos cantos laterais da tela, o bloco desce um pouco e começa a andar para o outro lado. Os inimigos lançam tiros eventualmente, dos quais o jogador deve desviar. Se um tiro acertar o jogador o mesmo perde pontos de hp e posteriormente o numero de vidas diminui. Caso o numero de vidas se encerre o jogo acaba
 
-<img src="https://github.com/TomAugst/Galaxian/blob/afe25b53357d5282aa35fda39f156de6a6fd7ca8/Screenshot/screenshot_menu_inicial.png" width="450" height="300"> <img src="https://github.com/TomAugst/Galaxian/blob/afe25b53357d5282aa35fda39f156de6a6fd7ca8/Screenshot/screenshot_pause.png" width="450" height="300">
+<img src="https://github.com/TomAugst/Galaxian/blob/main/Screenshot/tile.gif" width="450" height="300"> <img src="https://github.com/TomAugst/Galaxian/blob/afe25b53357d5282aa35fda39f156de6a6fd7ca8/Screenshot/screenshot_pause.png" width="450" height="300">
 <img src="https://github.com/TomAugst/Galaxian/blob/afe25b53357d5282aa35fda39f156de6a6fd7ca8/Screenshot/screenshot_levou_dano.png" width="450" height="300"> <img src="https://github.com/TomAugst/Galaxian/blob/afe25b53357d5282aa35fda39f156de6a6fd7ca8/Screenshot/screenshot_nave_robusta.png" width="450" height="300">
 
 <a href="https://www.youtube.com/watch?v=1naGQJnH4ns">Video</a>
